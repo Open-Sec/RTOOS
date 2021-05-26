@@ -1,3 +1,5 @@
+![Image of RedTeamers](https://raw.githubusercontent.com/Open-Sec/OSRTO/master/badass.png)
+
 # Elevator Pitch
 
 Red teaming is more than a hype right now, no matters the maturity level an organization have, this kind is a must. This is  a unique opportunity for blue teamers and pentesters to learn and confirm their knowledge about Tactics, Techniques and Procedures required in red team exercises.
