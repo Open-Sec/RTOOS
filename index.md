@@ -1,4 +1,4 @@
-![Image of RedTeamers](https://raw.githubusercontent.com/Open-Sec/OSRTO/master/badass.png)
+![Image of RedTeamers](https://github.com/Open-Sec/OSRTO/raw/gh-pages/badass.png)
 
 # Elevator Pitch
 
