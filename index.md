@@ -1,3 +1,7 @@
+# OSRTO
+
+**Open-Sec Red Teamer Operator**
+
 ![Image of RedTeamers](https://github.com/Open-Sec/OSRTO/raw/gh-pages/badass.png)
 
 # Elevator Pitch
