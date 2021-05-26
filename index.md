@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+# Elevator Pitch
 
-You can use the [editor on GitHub](https://github.com/Open-Sec/OSRTO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Red teaming is more than a hype right now, no matters the maturity level an organization have, this kind is a must. This is  a unique opportunity for blue teamers and pentesters to learn and confirm their knowledge about Tactics, Techniques and Procedures required in red team exercises.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Description
 
-### Markdown
+Red teaming is more than a hype right now, no matters that maturity level an organization have, this is a kind of test that must be do it.  But, there a lot of options to get trained for pentesting and some for red teaming, so, this is good option for blue teamers and pentesters to learn and confirm their knowledge about Tactics, Techniques and Procedures required in red team exercises.
+Going beyond just learning through demos and the lecture of ATT&CK framework, during this workshop We are goint to teach them how to start a phishing campaign (an effective one) to get the initial compromise and then move laterally in order to grab the crown jewels through an exfiltration channel controlled by a C2 with the extra value to learn how to bypass defenses like IPS, EDR, SIEM, etc.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Content
 
-```markdown
-Syntax highlighted code block
+We are part of team focused in security testing and got very good experience doing red teaming in several kind of companies during last 2 years, so, We want to share this experience through a workshop.  The outline is :
 
-# Header 1
-## Header 2
-### Header 3
+1.Intro
 
-- Bulleted
-- List
++ What is Red Teaming
++ Pentesting vs Red Teaming
++ TTPs
++ ATT&CK framework explained and why is not for red teamers
 
-1. Numbered
-2. List
+2.Discovery (RECON).
 
-**Bold** and _Italic_ and `Code` text
++ Searching for useful data (what, why, where, when).
++ Using search engines through APIs.
++ Not so common search engines.
++ Lab 2.1 : Make a profile for ACME Corp (fictional company) using Censys.
 
-[Link](url) and ![Image](src)
-```
+3.Initial Compromise
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
++ Phishing campaign
++ Spraying like a boss
++ Powershell without Powershell
++ IPS Evasion
++ EDRs Evasion
++ Lab 3.1 : Powershell without Powershell for the win
 
-### Jekyll Themes
+4.Lateral Movement
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Open-Sec/OSRTO/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
++ Credentials harvesting
++ Privilege Escalation
++ Droppers and Implants
++ SIEM Evasion
++ Lab 4.1 : Getting credentials without locking accounts
 
-### Support or Contact
+5.Establishing a C2
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
++ Lateral Movement with or without a C2
++ C2 Components
++ C2 frameworks
++ Deploying a C2
++ Bypassing the blue teamers actions (persistence)
++ Lab 5.1 : Deploying a C2 in a persistent way
+
+6.Searching for the crown jewels
+
++ Identifying the right targets
++ Searching in shared folders
++ Getting a jewel from internal web applications
++ Passive data gathering
++ Lab 6.1 : Searching data on user machines
+
+7.Exfiltration
+
++ Data preparation
++ Covert channels
++ Covert repositories
++ Lab 7.1 : Exfiltration made by hand
+
+8.Extras but Required
+
++ Physical Intrusion
++ Report model
++ How to help blue teams or going Purple
+
+Students will need to bring just a laptop with MS Windows 7 or later and latest Kali Linux version.  Virtual machines will be ok.
