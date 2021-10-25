@@ -2,7 +2,7 @@
 
 **Red Team Operator by Open-Sec**
 
-![Image of RedTeamers](https://github.com/Open-Sec/RTOOS/raw/gh-pages/badass.png)
+![Image of RedTeamers](https://github.com/Open-Sec/RTOOS/raw/gh-pages/rtoos.png)
 
 # Elevator Pitch
 
