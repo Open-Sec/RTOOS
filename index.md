@@ -1,6 +1,6 @@
 # RTOOS
 
-**Red Teamer Operator by Open-Sec**
+**Red Team Operator by Open-Sec**
 
 ![Image of RedTeamers](https://github.com/Open-Sec/RTOOS/raw/gh-pages/badass.png)
 
