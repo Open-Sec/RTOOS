@@ -1,2 +1,2 @@
-# OSRTO
-Open-Sec Red Team Operator
+# RTOOS
+Red Team Operatorby Open-Sec
