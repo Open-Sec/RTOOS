@@ -1,2 +1,2 @@
 # RTOOS
-Red Team Operatorby Open-Sec
+Red Team Operator by Open-Sec
